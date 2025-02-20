@@ -6,7 +6,7 @@
       "title": "Pepperoni Fresh with peppers",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 19,
+      "price": 15,
       "category": 4,
       "rating": 4,
       "ingridients": "Specialty tomato sauce, mozzarella, spicy chorizo, sweet peppers"
@@ -28,7 +28,7 @@
       "title": "BBQ Chicken",
       "types": [0],
       "sizes": [6, 14],
-      "price": 14,
+      "price": 15,
       "category": 1,
       "rating": 4,
       "ingridients": "Chicken, bacon, barbecue sauce, red onions, mozzarella, special tomato sauce"
@@ -72,7 +72,7 @@
       "title": "Pepperoni",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 17,
+      "price": 13,
       "category": 1,
       "rating": 9,
       "ingridients": "Spicy pepperoni, extra mozzarella, special tomato sauce"
@@ -83,7 +83,7 @@
       "title": "Margarita",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 15,
+      "price": 13,
       "category": 2,
       "rating": 10,
       "ingridients": "Enlarged portion of mozzarella, tomatoes, Italian herbs, special tomato sauce"
@@ -94,7 +94,7 @@
       "title": "Four Seasons",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 14,
+      "price": 15,
       "category": 5,
       "rating": 10,
       "ingridients": "Enlarged portion of mozzarella, ham, spicy pepperoni, feta, tomatoes, mushrooms, Italian herbs, signature tomato sauce"
@@ -116,7 +116,7 @@
       "title": "React TS mix",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 14,
+      "price": 16,
       "category": 5,
       "rating": 6,
       "ingridients": "Bacon, chicken, ham, cheddar and parmesan cheeses, pesto sauce, feta, tomatoes, red onions, mozzarella, special alfredo sauce, garlic, Italian herbs"
@@ -138,7 +138,7 @@
       "title": "All In",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 14,
+      "price": 15,
       "category": 1,
       "rating": 8,
       "ingridients": "Bacon, meatballs, spicy peperoni, mozzarella, tomatoes, mushrooms, sweet pepper, red onion, special tomato sauce"
@@ -160,7 +160,7 @@
       "title": "BBQ Sausages",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 14,
+      "price": 15,
       "category": 4,
       "rating": 3,
       "ingridients": "Spicy chorizo, barbecue sauce, tomatoes, red onions, mozzarella, special tomato sauce"
@@ -193,7 +193,7 @@
       "title": "Sweet Chili & Shrimps",
       "types": [0, 1],
       "sizes": [6, 10, 14],
-      "price": 14,
+      "price": 16,
       "category": 1,
       "rating": 9,
       "ingridients": "Shrimps, pineapples, sweet chili sauce, sweet peppers, mozzarella, signature alfredo sauce"
