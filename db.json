@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "0",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d61706d472f9a5d71eb94149304.avif",
       "title": "Pepperoni Fresh with peppers",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -57,7 +57,7 @@
     },
     {
       "id": "5",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ef8537f2244e8caeb7c69e644d0537.avif",
       "title": "Crazy Pepperoni",
       "types": [0],
       "sizes": [10, 14],
@@ -90,7 +90,7 @@
     },
     {
       "id": "8",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d611adf5aad898b8b651186e023.avif",
       "title": "Four Seasons",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -112,7 +112,7 @@
     },
     {
       "id": "10",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/e47fda53ae2441a8850d9a9319ec7071_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ef9176e7a46e9087094f742980c536.avif",
       "title": "React TS mix",
       "types": [0, 1],
       "sizes": [6, 10, 14],
