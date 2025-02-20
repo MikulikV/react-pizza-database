@@ -97,7 +97,7 @@
       "price": 14,
       "category": 5,
       "rating": 10,
-      "ingridients": "Enlarged portion of mozzarella, ham, spicy pepperoni, diced bryndza, tomatoes, mushrooms, Italian herbs, signature tomato sauce"
+      "ingridients": "Enlarged portion of mozzarella, ham, spicy pepperoni, feta, tomatoes, mushrooms, Italian herbs, signature tomato sauce"
     },
     {
       "id": "9",
@@ -108,7 +108,7 @@
       "price": 12,
       "category": 2,
       "rating": 7,
-      "ingridients": "Champignons, tomatoes, sweet peppers, red onions, diced bryndza, mozzarella, special tomato sauce, Italian herbs"
+      "ingridients": "Champignons, tomatoes, sweet peppers, red onions, feta, mozzarella, special tomato sauce, Italian herbs"
     },
     {
       "id": "10",
@@ -119,7 +119,7 @@
       "price": 14,
       "category": 5,
       "rating": 6,
-      "ingridients": "Bacon, chicken, ham, cheddar and parmesan cheeses, pesto sauce, bryndza cubes, tomatoes, red onions, mozzarella, special alfredo sauce, garlic, Italian herbs"
+      "ingridients": "Bacon, chicken, ham, cheddar and parmesan cheeses, pesto sauce, feta, tomatoes, red onions, mozzarella, special alfredo sauce, garlic, Italian herbs"
     },
     {
       "id": "11",
@@ -134,14 +134,14 @@
     },
     {
       "id": "12",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/50555f951a6d4fd4ac0088c099eb3769_366x366.webp",
-      "title": "Four Cheeses 🌱",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/01939b6f01a676059b576eaab98abb2d.avif",
+      "title": "All In",
       "types": [0, 1],
       "sizes": [6, 10, 14],
       "price": 14,
       "category": 2,
       "rating": 8,
-      "ingridients": "Blue cheese, cheddar and parmesan cheese blend, mozzarella, special alfredo sauce"
+      "ingridients": "Bacon, meatballs, spicy peperoni, mozzarella, tomatoes, mushrooms, sweet pepper, red onion, special tomato sauce"
     },
     {
       "id": "13",
@@ -152,7 +152,7 @@
       "price": 15,
       "category": 4,
       "rating": 5,
-      "ingridients": "Spicy chorizo, hot jalapeño peppers, barbecue sauce, mithballs, tomatoes, sweet peppers, red onions, mozzarella, signature tomato sauce"
+      "ingridients": "Spicy chorizo, hot jalapeño peppers, barbecue sauce, meatballs, tomatoes, sweet peppers, red onions, mozzarella, signature tomato sauce"
     },
     {
       "id": "14",
@@ -189,14 +189,14 @@
     },
     {
       "id": "17",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/c8ac7d2eb95b4bd0b8bc2f366415896c_366x366.webp",
-      "title": "Curry Chicken",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/0194d4fd39bb7352bfa5de2219e88b9b.avif",
+      "title": "Sweet Chili & Shrimps",
       "types": [0, 1],
       "sizes": [6, 10, 14],
       "price": 14,
       "category": 1,
-      "rating": 4,
-      "ingridients": "Chicken, pineapples, curry sauce, red onions, sweet peppers, mozzarella, signature tomato sauce"
+      "rating": 9,
+      "ingridients": "Shrimps, pineapples, sweet chili sauce, sweet peppers, mozzarella, signature alfredo sauce"
     },
     {
       "id": "18",
@@ -211,14 +211,14 @@
     },
     {
       "id": "19",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/9f97c31be5ed477db2dd842f42e80816_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/0194d4f6904975a5a6427e297591980d.avif",
       "title": "Meat Mix",
       "types": [0, 1],
       "sizes": [6, 10, 14],
       "price": 15,
       "category": 5,
-      "rating": 3,
-      "ingridients": "Baked pork burger, spicy chorizo, spicy pepperoni, bacon, mozzarella, special tomato sauce"
+      "rating": 6,
+      "ingridients": "Spicy beef, bavarian sausages, spicy pepperoni, bacon, mozzarella, special tomato sauce"
     }
   ]
 }
