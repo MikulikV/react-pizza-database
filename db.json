@@ -24,7 +24,7 @@
     },
     {
       "id": "2",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6110059795842d40396bcf1e73.avif",
       "title": "BBQ Chicken",
       "types": [0],
       "sizes": [6, 14],
@@ -35,7 +35,7 @@
     },
     {
       "id": "3",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/42360a7dcb7640c998b723231586fe84_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d610e8bbb248f31270be742b4bd.avif",
       "title": "Cheesy Chicken",
       "types": [1],
       "sizes": [6, 10, 14],
@@ -46,7 +46,7 @@
     },
     {
       "id": "4",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d61698827ee9b8db6d0aec53410.avif",
       "title": "Cheeseburger Pizza",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -68,7 +68,7 @@
     },
     {
       "id": "6",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d610a62d78598406363a9a8ad65.avif",
       "title": "Pepperoni",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -79,7 +79,7 @@
     },
     {
       "id": "7",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6105ef6690b86fbde6150b5b0c.avif",
       "title": "Margarita",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -101,7 +101,7 @@
     },
     {
       "id": "9",
-      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d61546d8483a61a0bbaa7adcc78.avif",
       "title": "Vegetables and mushrooms 🌱",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -123,7 +123,7 @@
     },
     {
       "id": "11",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/18dbb12240b041a191c9dc73c9c1f4ef_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6108e3a1c9952cd3a7f39a4d02.avif",
       "title": "Meat",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -145,7 +145,7 @@
     },
     {
       "id": "13",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/03c840b1ab6f4ccb84f5dc167e146598_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6149eb101d8727573088fa2eff.avif",
       "title": "Diablo 🌶️🌶️",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -156,7 +156,7 @@
     },
     {
       "id": "14",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6150d498419e133df19945a00d.avif",
       "title": "BBQ Sausages",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -167,7 +167,7 @@
     },
     {
       "id": "15",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/9b0c599124a8414f89fd59967f3baa3d_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d617e9339cfb185921a343ad8fd.avif",
       "title": "Hawaiian",
       "types": [0],
       "sizes": [6, 14],
@@ -178,7 +178,7 @@
     },
     {
       "id": "16",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/e379c72af6c54f81b7b4e6ffbb2b1729_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ef4feddf588b4ea7493ba40fdf934c.avif",
       "title": "Chicken Ranch",
       "types": [0, 1],
       "sizes": [6, 10, 14],
@@ -200,7 +200,7 @@
     },
     {
       "id": "18",
-      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/5907951b8bf848b2b3bf0ead39b84ab1_366x366.webp",
+      "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6134bc4150bdd8e792d866ab52.avif",
       "title": "Arriva!",
       "types": [0, 1],
       "sizes": [6, 10, 14],
